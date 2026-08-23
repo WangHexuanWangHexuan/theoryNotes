@@ -1,5 +1,6 @@
 ---
 name: five-section-method
+Before generating notes, please select the content level: undergraduate / graduate / advanced
 description: Analyze a mathematical or theoretical-CS definition, theorem, normal form, lemma, or proof using a fixed five-section structure — motivation, boundary questions, relations, proof intuition, and the algebra underneath together with the technique of analysis the proof uses. Use this whenever the user asks you to explain, unpack, clarify, or "help me understand" a theorem, definition, normal form, complexity result, algebraic structure, or proof — including when they paste a lecture slide, textbook screenshot, or photo of a blackboard and just say "explain this". Also use it when they ask why a hypothesis is needed, what happens if a condition is dropped or weakened, how a result connects to others, or what the real idea behind a proof is. Prefer this over a plain explanation for any formal result; only skip it for pure computation, homework arithmetic, or one-line factual lookups ("who proved this", "when was this published").
 ---
 
